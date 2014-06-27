@@ -1,0 +1,6 @@
+library(ggplot2)
+data = read.csv("Response.csv")
+summary(data)
+attach(data)
+m = ggplot(data, aes(x=sh2, fill=group))
+m + geom_density()
