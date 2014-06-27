@@ -25,7 +25,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/24956065
 
 ## BibTex code
 
-[Direct link to .bib file](https://github.com/CyclotronResearchCentre/parktdi_scripts/blob/master/citation.bib)
+[Direct link to .bib file](https://github.com/CyclotronResearchCentre/parktdi_scripts/raw/master/citation.bib)
 
     @article{Ziegler2014,
     title = "{Mapping track density changes in nigrostriatal and extranigral pathways in Parkinson's disease}",
