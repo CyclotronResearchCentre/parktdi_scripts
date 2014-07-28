@@ -5,7 +5,7 @@ This repository contains some Python, R, and MATLAB code associated with the pub
 
 > **Mapping track density changes in nigrostriatal and extranigral pathways in Parkinson’s disease**.  
 Ziegler E, Rouillard M, André E, Coolen T, Stender J, Balteau E, Phillips C<sup>1</sup>, Garraux G<sup>1</sup>.
-_**NeuroImage**_. 2014 Jun 20. pii: S1053-8119(14)00510-2. [doi:10.1016/j.neuroimage.2014.06.033](doi:10.1016/j.neuroimage.2014.06.033).
+_**NeuroImage**_. Volume 99, 1 October 2014, Pages 498-508, ISSN 1053-8119, [doi:10.1016/j.neuroimage.2014.06.033](doi:10.1016/j.neuroimage.2014.06.033).
 
 <sup>1</sup> Contributed equally
 
@@ -20,8 +20,12 @@ https://www.nitrc.org/projects/parktdi/
 http://www.ncbi.nlm.nih.gov/pubmed/24956065
 
 #### ScienceDirect
- http://www.sciencedirect.com/science/article/pii/S1053811914005102
 
+http://www.sciencedirect.com/science/article/pii/S1053811914005102
+
+#### AWS Marketplace testimonial
+
+https://aws.amazon.com/marketplace/cp/CustomerTestimonials
 
 ## BibTex code
 
@@ -30,9 +34,9 @@ http://www.ncbi.nlm.nih.gov/pubmed/24956065
     @article{Ziegler2014,
     title = "{Mapping track density changes in nigrostriatal and extranigral pathways in Parkinson's disease}",
     journal = "{NeuroImage}",
-    volume = "",
+    volume = "99",
     number = "0",
-    pages = " - ",
+    pages = "498 - 508",
     year = "2014",
     note = "",
     issn = "1053-8119",
